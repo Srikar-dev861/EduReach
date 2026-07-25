@@ -1,3 +1,4 @@
+import "./env.js";
 import app from "./app.js";
 import { initializeKnowledgeBase } from "./services/rag.service.js";
 
